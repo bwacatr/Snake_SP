@@ -1,0 +1,26 @@
+﻿  Snake.cpp
+C:\Users\st310-08\Desktop\Romanov_PR31\Snake\Snake.cpp(14,11): error C3646: snake: неизвестный спецификатор переопределения
+C:\Users\st310-08\Desktop\Romanov_PR31\Snake\Snake.cpp(14,5): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\st310-08\Desktop\Romanov_PR31\Snake\Snake.cpp(56,25): error C2065: snake: необъявленный идентификатор
+C:\Users\st310-08\Desktop\Romanov_PR31\Snake\Snake.cpp(60,29): error C2065: snake: необъявленный идентификатор
+C:\Users\st310-08\Desktop\Romanov_PR31\Snake\Snake.cpp(62,29): error C2065: snake: необъявленный идентификатор
+C:\Users\st310-08\Desktop\Romanov_PR31\Snake\Snake.cpp(66,33): error C2065: snake: необъявленный идентификатор
+C:\Users\st310-08\Desktop\Romanov_PR31\Snake\Snake.cpp(70,33): error C2065: snake: необъявленный идентификатор
+C:\Users\st310-08\Desktop\Romanov_PR31\Snake\Snake.cpp(74,34): error C2065: snake: необъявленный идентификатор
+C:\Users\st310-08\Desktop\Romanov_PR31\Snake\Snake.cpp(76,29): error C2065: snake: необъявленный идентификатор
+C:\Users\st310-08\Desktop\Romanov_PR31\Snake\Snake.cpp(80,33): error C2065: snake: необъявленный идентификатор
+C:\Users\st310-08\Desktop\Romanov_PR31\Snake\Snake.cpp(84,33): error C2065: snake: необъявленный идентификатор
+C:\Users\st310-08\Desktop\Romanov_PR31\Snake\Snake.cpp(88,34): error C2065: snake: необъявленный идентификатор
+C:\Users\st310-08\Desktop\Romanov_PR31\Snake\Snake.cpp(90,29): error C2065: snake: необъявленный идентификатор
+C:\Users\st310-08\Desktop\Romanov_PR31\Snake\Snake.cpp(94,33): error C2065: snake: необъявленный идентификатор
+C:\Users\st310-08\Desktop\Romanov_PR31\Snake\Snake.cpp(98,33): error C2065: snake: необъявленный идентификатор
+C:\Users\st310-08\Desktop\Romanov_PR31\Snake\Snake.cpp(102,34): error C2065: snake: необъявленный идентификатор
+C:\Users\st310-08\Desktop\Romanov_PR31\Snake\Snake.cpp(104,29): error C2065: snake: необъявленный идентификатор
+C:\Users\st310-08\Desktop\Romanov_PR31\Snake\Snake.cpp(108,33): error C2065: snake: необъявленный идентификатор
+C:\Users\st310-08\Desktop\Romanov_PR31\Snake\Snake.cpp(112,33): error C2065: snake: необъявленный идентификатор
+C:\Users\st310-08\Desktop\Romanov_PR31\Snake\Snake.cpp(127,17): warning C4551: в вызове функции отсутствует список аргументов
+C:\Users\st310-08\Desktop\Romanov_PR31\Snake\Snake.cpp(132,21): error C2065: snake: необъявленный идентификатор
+C:\Users\st310-08\Desktop\Romanov_PR31\Snake\Snake.cpp(136,21): error C2065: snake: необъявленный идентификатор
+C:\Users\st310-08\Desktop\Romanov_PR31\Snake\Snake.cpp(140,21): error C2065: snake: необъявленный идентификатор
+C:\Users\st310-08\Desktop\Romanov_PR31\Snake\Snake.cpp(144,21): error C2065: snake: необъявленный идентификатор
+C:\Users\st310-08\Desktop\Romanov_PR31\Snake\Snake.cpp(148,21): error C2065: snake: необъявленный идентификатор
